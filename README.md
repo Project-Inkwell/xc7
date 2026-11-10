@@ -12,17 +12,19 @@ tools; nothing in it was written by hand.
 
 ## Devices
 
-| Device | Speed grades |
-|--------|--------------|
-| xc7a100t | 1, 2, 2L, 3 |
+| Device   | Speed grades |
+| -------- | ------------ |
+| xc7a100t | 1, 2, 2L, 3  |
 
 ## Using it with nextpnr
 
 Point the xilinx uarch's build at this checkout:
 
-    cmake . -DARCH=himbaechel -DHIMBAECHEL_UARCH=xilinx \
-        -DHIMBAECHEL_PRJXRAY_DB=/path/to/prjxray-db \
-        -DHIMBAECHEL_XILINX_TIMING=/path/to/xc7
+    cmake . \
+      -DARCH=himbaechel \
+      -DHIMBAECHEL_UARCH=xilinx \
+      -DHIMBAECHEL_PRJXRAY_DB=/path/to/prjxray-db \
+      -DHIMBAECHEL_XILINX_TIMING=/path/to/xc7
 
 A device with a directory here gets a chipdb timed in each of its grades;
 `--device xc7a100tcsg324-1` then selects grade `1`. Devices without one keep
@@ -60,17 +62,13 @@ Kraken is a reverse-engineering system: it runs a vendor's tools on designs
 of its own, records what they do and write, and infers a model of the device
 from those observations, every claim traced to the builds it came from.
 
-For the xc7a100t, Vivado v2025.2 built 253 designs for the xc7a100tcsg324,
-placed and routed by Vivado, each written out as SDF for every speed grade
-and corner, with its routes:
-
-| Set | Designs | What they exercise |
-|-----|---------|--------------------|
-| timing | 13 | one design per kind of cell the device times |
-| routing | 120 | LUTs and registers in slices drawn from the whole device, so that routes cross it in every direction and take every kind of wire |
-| crossing | 40 | the wires those leave out: the bypass into a register, shared clock enables and resets, carry chains, slices far apart |
-| insides | 40 | the choices inside slices, taken many ways |
-| blocks | 40 | block RAMs and DSPs in their modes, widths and registers |
+| Set      | Designs | What they exercise |
+| -------- | ------- | ------------------ |
+| timing   | 13      | one design per kind of cell the device times |
+| routing  | 120     | LUTs and registers in slices drawn from the whole device, so that routes cross it in every direction and take every kind of wire |
+| crossing | 40      | the wires those leave out: the bypass into a register, shared clock enables and resets, carry chains, slices far apart |
+| insides  | 40      | the choices inside slices, taken many ways |
+| blocks   | 40      | block RAMs and DSPs in their modes, widths and registers |
 
 The cell arcs are the SDF's, per bel and cell type. The routing delays come
 from a fit: each connection's delay in the SDF is a sum of class delays --
@@ -79,19 +77,23 @@ non-negative least squares over every connection of every build.
 
 ## Accuracy
 
-Against Vivado's own SDF, on the routes Vivado took (191,762 connections,
-slow corner, maximum):
-
 | Grade | rms error | mean error |
-|-------|-----------|------------|
-| 1 | 25.9 ps | 0.55 % |
-| 2, 2L | 26.3 ps | 0.67 % |
-| 3 | 28.6 ps | 0.82 % |
+| ----- | --------- | ---------- |
+| 1     | 25.9 ps   | 0.55 %     |
+| 2, 2L | 26.3 ps   | 0.67 %     |
+| 3     | 28.6 ps   | 0.82 %     |
 
 These connections are those the model was fitted to. Fitted on four fifths
-of the builds and measured on the fifth, the error is 0.7–1.1 %. X-Ray's own
+of the builds and measured on the fifth, the error is 0.7-1.1 %. X-Ray's own
 delays, as the xilinx uarch uses them without this database, are 14.5 % off
 on the same connections at grade 1, about 0.45 ns fast on average.
+
+`tools/check.py` measures this on any designs Vivado placed and routed:
+`tools/routes.tcl`, sourced in Vivado with the routed design open, writes
+what it reads -- each net's route and the SDF of every speed grade.
+
+    python3 tools/check.py --nextpnr <checkout> --prjxray-db <database> \
+        xc7a100t <build dir>...
 
 ## Licence
 
