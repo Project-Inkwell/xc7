@@ -1,0 +1,2423 @@
+{
+  "pips": {
+    "INT_INTERFACE_LOGIC_OUTS_B0->INT_INTERFACE_LOGIC_OUTS0": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS0",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B0"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B1->INT_INTERFACE_LOGIC_OUTS1": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS1",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B1"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B10->INT_INTERFACE_LOGIC_OUTS10": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS10",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B10"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B11->INT_INTERFACE_LOGIC_OUTS11": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS11",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B11"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B12->INT_INTERFACE_LOGIC_OUTS12": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS12",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B12"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B13->INT_INTERFACE_LOGIC_OUTS13": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS13",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B13"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B14->INT_INTERFACE_LOGIC_OUTS14": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS14",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B14"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B15->INT_INTERFACE_LOGIC_OUTS15": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS15",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B15"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B16->INT_INTERFACE_LOGIC_OUTS16": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS16",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B16"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B17->INT_INTERFACE_LOGIC_OUTS17": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS17",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B17"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B18->INT_INTERFACE_LOGIC_OUTS18": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS18",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B18"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B19->INT_INTERFACE_LOGIC_OUTS19": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS19",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B19"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B2->INT_INTERFACE_LOGIC_OUTS2": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS2",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B2"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B20->INT_INTERFACE_LOGIC_OUTS20": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS20",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B20"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B21->INT_INTERFACE_LOGIC_OUTS21": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS21",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B21"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B22->INT_INTERFACE_LOGIC_OUTS22": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS22",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B22"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B23->INT_INTERFACE_LOGIC_OUTS23": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS23",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B23"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B3->INT_INTERFACE_LOGIC_OUTS3": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS3",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B3"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B4->INT_INTERFACE_LOGIC_OUTS4": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS4",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B4"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B5->INT_INTERFACE_LOGIC_OUTS5": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS5",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B5"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B6->INT_INTERFACE_LOGIC_OUTS6": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS6",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B6"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B7->INT_INTERFACE_LOGIC_OUTS7": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS7",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B7"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B8->INT_INTERFACE_LOGIC_OUTS8": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS8",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B8"
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B9->INT_INTERFACE_LOGIC_OUTS9": {
+      "dst_wire": "INT_INTERFACE_LOGIC_OUTS9",
+      "src_to_dst": {
+        "delay": [
+          "0.003",
+          "0.009",
+          "0.118",
+          "0.133"
+        ]
+      },
+      "src_wire": "INT_INTERFACE_LOGIC_OUTS_B9"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY0->PCIE_INT_INTERFACE_IMUX_OUT0": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT0",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY0"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY1->PCIE_INT_INTERFACE_IMUX_OUT1": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT1",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY1"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY10->PCIE_INT_INTERFACE_IMUX_OUT10": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT10",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY10"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY11->PCIE_INT_INTERFACE_IMUX_OUT11": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT11",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY11"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY12->PCIE_INT_INTERFACE_IMUX_OUT12": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT12",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY12"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY13->PCIE_INT_INTERFACE_IMUX_OUT13": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT13",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY13"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY14->PCIE_INT_INTERFACE_IMUX_OUT14": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT14",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY14"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY15->PCIE_INT_INTERFACE_IMUX_OUT15": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT15",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY15"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY16->PCIE_INT_INTERFACE_IMUX_OUT16": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT16",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY16"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY17->PCIE_INT_INTERFACE_IMUX_OUT17": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT17",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY17"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY18->PCIE_INT_INTERFACE_IMUX_OUT18": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT18",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY18"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY19->PCIE_INT_INTERFACE_IMUX_OUT19": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT19",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY19"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY2->PCIE_INT_INTERFACE_IMUX_OUT2": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT2",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY2"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY20->PCIE_INT_INTERFACE_IMUX_OUT20": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT20",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY20"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY21->PCIE_INT_INTERFACE_IMUX_OUT21": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT21",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY21"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY22->PCIE_INT_INTERFACE_IMUX_OUT22": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT22",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY22"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY23->PCIE_INT_INTERFACE_IMUX_OUT23": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT23",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY23"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY24->PCIE_INT_INTERFACE_IMUX_OUT24": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT24",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY24"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY25->PCIE_INT_INTERFACE_IMUX_OUT25": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT25",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY25"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY26->PCIE_INT_INTERFACE_IMUX_OUT26": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT26",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY26"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY27->PCIE_INT_INTERFACE_IMUX_OUT27": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT27",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY27"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY28->PCIE_INT_INTERFACE_IMUX_OUT28": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT28",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY28"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY29->PCIE_INT_INTERFACE_IMUX_OUT29": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT29",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY29"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY3->PCIE_INT_INTERFACE_IMUX_OUT3": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT3",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY3"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY30->PCIE_INT_INTERFACE_IMUX_OUT30": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT30",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY30"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY31->PCIE_INT_INTERFACE_IMUX_OUT31": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT31",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY31"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY32->PCIE_INT_INTERFACE_IMUX_OUT32": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT32",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY32"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY33->PCIE_INT_INTERFACE_IMUX_OUT33": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT33",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY33"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY34->PCIE_INT_INTERFACE_IMUX_OUT34": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT34",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY34"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY35->PCIE_INT_INTERFACE_IMUX_OUT35": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT35",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY35"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY36->PCIE_INT_INTERFACE_IMUX_OUT36": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT36",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY36"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY37->PCIE_INT_INTERFACE_IMUX_OUT37": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT37",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY37"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY38->PCIE_INT_INTERFACE_IMUX_OUT38": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT38",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY38"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY39->PCIE_INT_INTERFACE_IMUX_OUT39": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT39",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY39"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY4->PCIE_INT_INTERFACE_IMUX_OUT4": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT4",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY4"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY40->PCIE_INT_INTERFACE_IMUX_OUT40": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT40",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY40"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY41->PCIE_INT_INTERFACE_IMUX_OUT41": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT41",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY41"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY42->PCIE_INT_INTERFACE_IMUX_OUT42": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT42",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY42"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY43->PCIE_INT_INTERFACE_IMUX_OUT43": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT43",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY43"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY44->PCIE_INT_INTERFACE_IMUX_OUT44": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT44",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY44"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY45->PCIE_INT_INTERFACE_IMUX_OUT45": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT45",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY45"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY46->PCIE_INT_INTERFACE_IMUX_OUT46": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT46",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY46"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY47->PCIE_INT_INTERFACE_IMUX_OUT47": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT47",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY47"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY5->PCIE_INT_INTERFACE_IMUX_OUT5": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT5",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY5"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY6->PCIE_INT_INTERFACE_IMUX_OUT6": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT6",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY6"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY7->PCIE_INT_INTERFACE_IMUX_OUT7": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT7",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY7"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY8->PCIE_INT_INTERFACE_IMUX_OUT8": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT8",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY8"
+    },
+    "PCIE_INT_INTERFACE_IMUX_DELAY9->PCIE_INT_INTERFACE_IMUX_OUT9": {
+      "dst_wire": "PCIE_INT_INTERFACE_IMUX_OUT9",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "PCIE_INT_INTERFACE_IMUX_DELAY9"
+    }
+  },
+  "tile_type": "PCIE_INT_INTERFACE_R",
+  "wires": {
+    "INT_INTERFACE_BYP0": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP1": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP2": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP3": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP4": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP5": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP6": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_BYP7": {
+      "delay": [
+        "0.054",
+        "0.060",
+        "0.143",
+        "0.156"
+      ]
+    },
+    "INT_INTERFACE_CLK0": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_CLK1": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_CTRL0": {
+      "delay": [
+        "0.008",
+        "0.008",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_CTRL1": {
+      "delay": [
+        "0.008",
+        "0.008",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE2A0": {
+      "delay": [
+        "0.010",
+        "0.012",
+        "0.013",
+        "0.017"
+      ]
+    },
+    "INT_INTERFACE_EE2A1": {
+      "delay": [
+        "0.010",
+        "0.012",
+        "0.013",
+        "0.017"
+      ]
+    },
+    "INT_INTERFACE_EE2A2": {
+      "delay": [
+        "0.010",
+        "0.012",
+        "0.013",
+        "0.017"
+      ]
+    },
+    "INT_INTERFACE_EE2A3": {
+      "delay": [
+        "0.010",
+        "0.012",
+        "0.013",
+        "0.017"
+      ]
+    },
+    "INT_INTERFACE_EE2BEG0": {
+      "delay": [
+        "0.014",
+        "0.014",
+        "0.017",
+        "0.018"
+      ]
+    },
+    "INT_INTERFACE_EE2BEG1": {
+      "delay": [
+        "0.014",
+        "0.014",
+        "0.017",
+        "0.018"
+      ]
+    },
+    "INT_INTERFACE_EE2BEG2": {
+      "delay": [
+        "0.014",
+        "0.014",
+        "0.017",
+        "0.018"
+      ]
+    },
+    "INT_INTERFACE_EE2BEG3": {
+      "delay": [
+        "0.014",
+        "0.014",
+        "0.017",
+        "0.018"
+      ]
+    },
+    "INT_INTERFACE_EE4A0": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.004",
+        "0.004"
+      ]
+    },
+    "INT_INTERFACE_EE4A1": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.004",
+        "0.004"
+      ]
+    },
+    "INT_INTERFACE_EE4A2": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.004",
+        "0.004"
+      ]
+    },
+    "INT_INTERFACE_EE4A3": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.004",
+        "0.004"
+      ]
+    },
+    "INT_INTERFACE_EE4B0": {
+      "delay": [
+        "0.001",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_EE4B1": {
+      "delay": [
+        "0.001",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_EE4B2": {
+      "delay": [
+        "0.001",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_EE4B3": {
+      "delay": [
+        "0.001",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_EE4BEG0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4BEG1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4BEG2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4BEG3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4C0": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4C1": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4C2": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EE4C3": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EL1BEG0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EL1BEG1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EL1BEG2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_EL1BEG3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_ER1BEG0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_ER1BEG1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_ER1BEG2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_ER1BEG3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_FAN0": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN1": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN2": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN3": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN4": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN5": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN6": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_FAN7": {
+      "delay": [
+        "0.020",
+        "0.028",
+        "0.020",
+        "0.029"
+      ]
+    },
+    "INT_INTERFACE_LH1": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH10": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH11": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH12": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH2": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH3": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH4": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH5": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH6": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH7": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH8": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LH9": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.006",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS0": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS1": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS10": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS11": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS12": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS13": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS14": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS15": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS16": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS17": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS18": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS19": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS2": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS20": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS21": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS22": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS23": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS3": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS4": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS5": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS6": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS7": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS8": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS9": {
+      "delay": [
+        "0.036",
+        "0.038",
+        "0.032",
+        "0.037"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B10": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B11": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B12": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B13": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B14": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B15": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B16": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B17": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B18": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B19": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B20": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B21": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B22": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B23": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B4": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B5": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B6": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B7": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B8": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_LOGIC_OUTS_B9": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_MONITOR_N": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_MONITOR_P": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NE2A0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NE2A1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NE2A2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NE2A3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NE4BEG0": {
+      "delay": [
+        "0.017",
+        "0.017",
+        "0.020",
+        "0.020"
+      ]
+    },
+    "INT_INTERFACE_NE4BEG1": {
+      "delay": [
+        "0.017",
+        "0.017",
+        "0.020",
+        "0.020"
+      ]
+    },
+    "INT_INTERFACE_NE4BEG2": {
+      "delay": [
+        "0.017",
+        "0.017",
+        "0.020",
+        "0.020"
+      ]
+    },
+    "INT_INTERFACE_NE4BEG3": {
+      "delay": [
+        "0.017",
+        "0.017",
+        "0.020",
+        "0.020"
+      ]
+    },
+    "INT_INTERFACE_NE4C0": {
+      "delay": [
+        "0.009",
+        "0.009",
+        "0.013",
+        "0.013"
+      ]
+    },
+    "INT_INTERFACE_NE4C1": {
+      "delay": [
+        "0.009",
+        "0.009",
+        "0.013",
+        "0.013"
+      ]
+    },
+    "INT_INTERFACE_NE4C2": {
+      "delay": [
+        "0.009",
+        "0.009",
+        "0.013",
+        "0.013"
+      ]
+    },
+    "INT_INTERFACE_NE4C3": {
+      "delay": [
+        "0.009",
+        "0.009",
+        "0.013",
+        "0.013"
+      ]
+    },
+    "INT_INTERFACE_NW2A0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NW2A1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NW2A2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NW2A3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_NW4A0": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.009",
+        "0.009"
+      ]
+    },
+    "INT_INTERFACE_NW4A1": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.009",
+        "0.009"
+      ]
+    },
+    "INT_INTERFACE_NW4A2": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.009",
+        "0.009"
+      ]
+    },
+    "INT_INTERFACE_NW4A3": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.009",
+        "0.009"
+      ]
+    },
+    "INT_INTERFACE_NW4END0": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.010",
+        "0.010"
+      ]
+    },
+    "INT_INTERFACE_NW4END1": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.010",
+        "0.010"
+      ]
+    },
+    "INT_INTERFACE_NW4END2": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.010",
+        "0.010"
+      ]
+    },
+    "INT_INTERFACE_NW4END3": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.010",
+        "0.010"
+      ]
+    },
+    "INT_INTERFACE_SE2A0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SE2A1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SE2A2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SE2A3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SE4BEG0": {
+      "delay": [
+        "0.008",
+        "0.010",
+        "0.012",
+        "0.014"
+      ]
+    },
+    "INT_INTERFACE_SE4BEG1": {
+      "delay": [
+        "0.008",
+        "0.010",
+        "0.012",
+        "0.014"
+      ]
+    },
+    "INT_INTERFACE_SE4BEG2": {
+      "delay": [
+        "0.008",
+        "0.010",
+        "0.012",
+        "0.014"
+      ]
+    },
+    "INT_INTERFACE_SE4BEG3": {
+      "delay": [
+        "0.008",
+        "0.010",
+        "0.012",
+        "0.014"
+      ]
+    },
+    "INT_INTERFACE_SE4C0": {
+      "delay": [
+        "0.011",
+        "0.013",
+        "0.014",
+        "0.016"
+      ]
+    },
+    "INT_INTERFACE_SE4C1": {
+      "delay": [
+        "0.011",
+        "0.013",
+        "0.014",
+        "0.016"
+      ]
+    },
+    "INT_INTERFACE_SE4C2": {
+      "delay": [
+        "0.011",
+        "0.013",
+        "0.014",
+        "0.016"
+      ]
+    },
+    "INT_INTERFACE_SE4C3": {
+      "delay": [
+        "0.011",
+        "0.013",
+        "0.014",
+        "0.016"
+      ]
+    },
+    "INT_INTERFACE_SW2A0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SW2A1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SW2A2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SW2A3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_SW4A0": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.004",
+        "0.006"
+      ]
+    },
+    "INT_INTERFACE_SW4A1": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.004",
+        "0.006"
+      ]
+    },
+    "INT_INTERFACE_SW4A2": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.004",
+        "0.006"
+      ]
+    },
+    "INT_INTERFACE_SW4A3": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.004",
+        "0.006"
+      ]
+    },
+    "INT_INTERFACE_SW4END0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_SW4END1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_SW4END2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_SW4END3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_WL1END0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WL1END1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WL1END2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WL1END3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WR1END0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WR1END1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WR1END2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WR1END3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "INT_INTERFACE_WW2A0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.003"
+      ]
+    },
+    "INT_INTERFACE_WW2A1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.003"
+      ]
+    },
+    "INT_INTERFACE_WW2A2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.003"
+      ]
+    },
+    "INT_INTERFACE_WW2A3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.003"
+      ]
+    },
+    "INT_INTERFACE_WW2END0": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.007",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_WW2END1": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.007",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_WW2END2": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.007",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_WW2END3": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.007",
+        "0.007"
+      ]
+    },
+    "INT_INTERFACE_WW4A0": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4A1": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4A2": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4A3": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4B0": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "INT_INTERFACE_WW4B1": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "INT_INTERFACE_WW4B2": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "INT_INTERFACE_WW4B3": {
+      "delay": [
+        "0.004",
+        "0.004",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "INT_INTERFACE_WW4C0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4C1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4C2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4C3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "INT_INTERFACE_WW4END0": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_WW4END1": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_WW4END2": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "INT_INTERFACE_WW4END3": {
+      "delay": [
+        "0.002",
+        "0.002",
+        "0.002",
+        "0.002"
+      ]
+    }
+  }
+}

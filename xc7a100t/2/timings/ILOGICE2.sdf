@@ -1,0 +1,50 @@
+(DELAYFILE
+    (SDFVERSION "3.0")
+    (TIMESCALE 1ns)
+    (CELL
+        (CELLTYPE "FDRE")
+        (INSTANCE ILOGICE2/IFF)
+        (DELAY
+            (ABSOLUTE
+                (IOPATH (posedge CK) Q1 (0.060::0.069)(0.134::0.154))
+            )
+        )
+        (TIMINGCHECK
+            (SETUPHOLD CE (posedge CK) (0.213::0.522) (-0.029::-0.060))
+            (SETUPHOLD D (posedge CK) (0.032::0.089) (0.004::0.016))
+            (SETUPHOLD SR (posedge CK) (0.165::0.530) (0.384::-0.003))
+        )
+    )
+    (CELL
+        (CELLTYPE "IDDR")
+        (INSTANCE ILOGICE2/IFF)
+        (DELAY
+            (ABSOLUTE
+                (IOPATH (negedge CKB) Q1 (0.060::0.069)(0.134::0.154))
+                (IOPATH (posedge CKB) Q1 (0.060::0.069)(0.134::0.154))
+                (IOPATH (negedge CKB) Q2 (0.059::0.067)(0.134::0.154))
+                (IOPATH (posedge CKB) Q2 (0.059::0.067)(0.134::0.154))
+            )
+        )
+        (TIMINGCHECK
+            (SETUPHOLD CE (negedge CKB) (0.213::0.522) (-0.029::-0.060))
+            (SETUPHOLD D (negedge CKB) (0.032::0.089) (0.004::0.016))
+            (SETUPHOLD SR (negedge CKB) (0.165::0.530) (0.384::-0.003))
+            (SETUPHOLD CE (posedge CKB) (0.213::0.522) (-0.029::-0.060))
+            (SETUPHOLD D (posedge CKB) (0.032::0.089) (0.004::0.016))
+            (SETUPHOLD SR (posedge CKB) (0.165::0.530) (0.384::-0.003))
+        )
+    )
+    (CELL
+        (CELLTYPE "ILOGICE2")
+        (INSTANCE ILOGICE2)
+        (DELAY
+            (ABSOLUTE
+                (PORT IFF/CK (0.121::0.142)(0.263::0.321))
+                (PORT IFF/D (0.058::0.065)(0.139::0.153))
+                (DEVICE IFF/Q1 (0.000::0.000)(0.000::0.000))
+                (DEVICE IFF/Q2 (0.000::0.000)(0.000::0.000))
+            )
+        )
+    )
+)

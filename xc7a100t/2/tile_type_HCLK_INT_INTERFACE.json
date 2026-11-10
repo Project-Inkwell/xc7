@@ -1,0 +1,278 @@
+{
+  "pips": {},
+  "tile_type": "HCLK_INT_INTERFACE",
+  "wires": {
+    "HCLK_INT_INTERFACE_CCIO0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CCIO1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CCIO2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CCIO3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK0": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK1": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK10": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK11": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK2": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK3": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK4": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK5": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK6": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK7": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK8": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_BUFHCLK9": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.001",
+        "0.001"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN0": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN1": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN10": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN11": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN12": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN13": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN2": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN3": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN4": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN5": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN6": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN7": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN8": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_CK_IN9": {
+      "delay": [
+        "0.001",
+        "0.001",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_INT_INTERFACE_REFCK_EASTCLK0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_REFCK_EASTCLK1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_REFCK_WESTCLK0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_INT_INTERFACE_REFCK_WESTCLK1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    }
+  }
+}

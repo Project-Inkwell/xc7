@@ -1,0 +1,33 @@
+(DELAYFILE
+    (SDFVERSION "3.0")
+    (TIMESCALE 1ns)
+    (CELL
+        (CELLTYPE "BUFGCTRL")
+        (INSTANCE BUFGCTRL/BUFGCTRL)
+        (DELAY
+            (ABSOLUTE
+                (IOPATH (negedge I0) O (0.026::0.029)(0.091::0.096))
+                (IOPATH (posedge I0) O (0.026::0.029)(0.091::0.096))
+                (IOPATH (negedge I1) O (0.026::0.029)(0.091::0.096))
+                (IOPATH (posedge I1) O (0.026::0.029)(0.091::0.096))
+            )
+        )
+        (TIMINGCHECK
+            (SETUPHOLD S0 (negedge I0) (0.040::0.159) (0.159::0.405))
+            (SETUPHOLD CE0 (posedge I0) (0.040::0.159) (0.159::0.405))
+            (SETUPHOLD S1 (negedge I1) (0.040::0.159) (0.159::0.405))
+            (SETUPHOLD CE1 (posedge I1) (0.040::0.159) (0.159::0.405))
+        )
+    )
+    (CELL
+        (CELLTYPE "BUFGCTRL")
+        (INSTANCE BUFGCTRL)
+        (DELAY
+            (ABSOLUTE
+                (PORT BUFGCTRL/CE0 (0.017::0.021)(0.068::0.075))
+                (PORT BUFGCTRL/I0 (0.560::0.605)(1.769::1.857))
+                (DEVICE BUFGCTRL/O (0.509::0.772)(1.441::1.547))
+            )
+        )
+    )
+)

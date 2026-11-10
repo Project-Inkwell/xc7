@@ -1,0 +1,25 @@
+(DELAYFILE
+    (SDFVERSION "3.0")
+    (TIMESCALE 1ns)
+    (CELL
+        (CELLTYPE "OBUFT")
+        (INSTANCE IOB33/OUTBUF)
+        (DELAY
+            (ABSOLUTE
+                (IOPATH IN OUT (1.166::1.353)(2.112::2.272))
+                (IOPATH TRI OUT (0.823::0.951)(1.788::2.291))
+            )
+        )
+    )
+    (CELL
+        (CELLTYPE "IOB33")
+        (INSTANCE IOB33)
+        (DELAY
+            (ABSOLUTE
+                (PORT OUTBUF/IN (0.039::0.116)(0.335::0.335))
+                (INTERCONNECT OUTBUF/OUT INBUF_EN/PAD (0.000::0.000)(0.000::0.000))
+                (DEVICE INBUF_EN/OUT (0.000::0.002)(0.002::0.005))
+            )
+        )
+    )
+)

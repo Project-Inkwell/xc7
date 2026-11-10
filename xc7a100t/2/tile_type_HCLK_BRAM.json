@@ -1,0 +1,750 @@
+{
+  "pips": {},
+  "tile_type": "HCLK_BRAM",
+  "wires": {
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU10": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU11": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU12": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU13": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU14": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU4": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU5": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU6": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU7": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU8": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRARDADDRU9": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU10": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU11": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU12": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU13": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU14": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU4": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU5": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU6": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU7": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU8": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCIN_L_ADDRBWRADDRU9": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU0": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU1": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU10": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU11": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU12": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU13": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU14": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU2": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU3": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU4": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU5": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU6": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU7": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU8": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRARDADDRU9": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU0": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU1": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU10": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU11": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU12": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU13": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU14": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU2": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU3": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU4": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU5": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU6": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU7": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU8": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CASCOUT_L_ADDRBWRADDRU9": {
+      "delay": [
+        "0.006",
+        "0.006",
+        "0.005",
+        "0.005"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK0": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK10": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK11": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK4": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK5": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK6": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK7": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK8": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_BUFHCLK9": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.002",
+        "0.002"
+      ]
+    },
+    "HCLK_BRAM_CK_IN0": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN1": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN10": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN11": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN12": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN13": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN2": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN3": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN4": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN5": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN6": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN7": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN8": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_CK_IN9": {
+      "delay": [
+        "0.007",
+        "0.007",
+        "0.011",
+        "0.011"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_O": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_ODIV2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_ODIV4": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_SELECT1": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_SELECT2": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_SELECT3": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "HCLK_BRAM_PMVBRAM_SELECT4": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    }
+  }
+}

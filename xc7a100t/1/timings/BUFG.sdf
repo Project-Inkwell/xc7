@@ -1,0 +1,23 @@
+(DELAYFILE
+    (SDFVERSION "3.0")
+    (TIMESCALE 1ns)
+    (CELL
+        (CELLTYPE "BUFG")
+        (INSTANCE BUFG/BUFG)
+        (DELAY
+            (ABSOLUTE
+                (IOPATH I0 O (0.026::0.029)(0.091::0.096))
+            )
+        )
+    )
+    (CELL
+        (CELLTYPE "BUFG")
+        (INSTANCE BUFG)
+        (DELAY
+            (ABSOLUTE
+                (PORT BUFG/I0 (0.560::0.605)(1.769::1.857))
+                (DEVICE BUFG/O (0.481::0.741)(1.371::1.476))
+            )
+        )
+    )
+)

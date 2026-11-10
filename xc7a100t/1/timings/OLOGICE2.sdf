@@ -1,0 +1,30 @@
+(DELAYFILE
+    (SDFVERSION "3.0")
+    (TIMESCALE 1ns)
+    (CELL
+        (CELLTYPE "ODDR")
+        (INSTANCE OLOGICE2/OUTFF)
+        (DELAY
+            (ABSOLUTE
+                (IOPATH (posedge CK) Q (0.177::0.204)(0.411::0.472))
+            )
+        )
+        (TIMINGCHECK
+            (SETUPHOLD CE (posedge CK) (0.052::0.482) (0.572::-0.108))
+            (SETUPHOLD D1 (posedge CK) (0.351::0.834) (-0.093::-0.143))
+            (SETUPHOLD D2 (posedge CK) (0.351::0.834) (-0.093::-0.143))
+        )
+    )
+    (CELL
+        (CELLTYPE "OLOGICE2")
+        (INSTANCE OLOGICE2)
+        (DELAY
+            (ABSOLUTE
+                (PORT OUTFF/CK (0.000::0.002)(0.005::0.020))
+                (PORT OUTFF/D1 (0.000::0.000)(0.000::0.000))
+                (PORT OUTFF/D2 (0.000::0.000)(0.000::0.000))
+                (DEVICE OUTFF/Q (0.000::0.000)(0.000::0.000))
+            )
+        )
+    )
+)

@@ -1,0 +1,247 @@
+{
+  "pips": {
+    "BRKH_GTX_NORTHREFCLK0_LOWER->BRKH_GTX_NORTHREFCLK0_UPPER": {
+      "dst_wire": "BRKH_GTX_NORTHREFCLK0_UPPER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_NORTHREFCLK0_LOWER"
+    },
+    "BRKH_GTX_NORTHREFCLK1_LOWER->BRKH_GTX_NORTHREFCLK1_UPPER": {
+      "dst_wire": "BRKH_GTX_NORTHREFCLK1_UPPER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_NORTHREFCLK1_LOWER"
+    },
+    "BRKH_GTX_REFCLK0_LOWER->BRKH_GTX_NORTHREFCLK0_UPPER": {
+      "dst_wire": "BRKH_GTX_NORTHREFCLK0_UPPER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK0_LOWER"
+    },
+    "BRKH_GTX_REFCLK0_LOWER->BRKH_GTX_NORTHREFCLK1_UPPER": {
+      "dst_wire": "BRKH_GTX_NORTHREFCLK1_UPPER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK0_LOWER"
+    },
+    "BRKH_GTX_REFCLK0_UPPER->BRKH_GTX_SOUTHREFCLK0_LOWER": {
+      "dst_wire": "BRKH_GTX_SOUTHREFCLK0_LOWER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK0_UPPER"
+    },
+    "BRKH_GTX_REFCLK0_UPPER->BRKH_GTX_SOUTHREFCLK1_LOWER": {
+      "dst_wire": "BRKH_GTX_SOUTHREFCLK1_LOWER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK0_UPPER"
+    },
+    "BRKH_GTX_REFCLK1_LOWER->BRKH_GTX_NORTHREFCLK0_UPPER": {
+      "dst_wire": "BRKH_GTX_NORTHREFCLK0_UPPER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK1_LOWER"
+    },
+    "BRKH_GTX_REFCLK1_LOWER->BRKH_GTX_NORTHREFCLK1_UPPER": {
+      "dst_wire": "BRKH_GTX_NORTHREFCLK1_UPPER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK1_LOWER"
+    },
+    "BRKH_GTX_REFCLK1_UPPER->BRKH_GTX_SOUTHREFCLK0_LOWER": {
+      "dst_wire": "BRKH_GTX_SOUTHREFCLK0_LOWER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK1_UPPER"
+    },
+    "BRKH_GTX_REFCLK1_UPPER->BRKH_GTX_SOUTHREFCLK1_LOWER": {
+      "dst_wire": "BRKH_GTX_SOUTHREFCLK1_LOWER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_REFCLK1_UPPER"
+    },
+    "BRKH_GTX_SOUTHREFCLK0_UPPER->BRKH_GTX_SOUTHREFCLK0_LOWER": {
+      "dst_wire": "BRKH_GTX_SOUTHREFCLK0_LOWER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_SOUTHREFCLK0_UPPER"
+    },
+    "BRKH_GTX_SOUTHREFCLK1_UPPER->BRKH_GTX_SOUTHREFCLK1_LOWER": {
+      "dst_wire": "BRKH_GTX_SOUTHREFCLK1_LOWER",
+      "src_to_dst": {
+        "delay": [
+          "0.000",
+          "0.000",
+          "0.000",
+          "0.000"
+        ]
+      },
+      "src_wire": "BRKH_GTX_SOUTHREFCLK1_UPPER"
+    }
+  },
+  "tile_type": "BRKH_GTX",
+  "wires": {
+    "BRKH_GTX_NORTHREFCLK0_LOWER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_NORTHREFCLK0_UPPER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_NORTHREFCLK1_LOWER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_NORTHREFCLK1_UPPER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_REFCLK0_LOWER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_REFCLK0_UPPER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_REFCLK1_LOWER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_REFCLK1_UPPER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_SOUTHREFCLK0_LOWER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_SOUTHREFCLK0_UPPER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_SOUTHREFCLK1_LOWER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    },
+    "BRKH_GTX_SOUTHREFCLK1_UPPER": {
+      "delay": [
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+      ]
+    }
+  }
+}
