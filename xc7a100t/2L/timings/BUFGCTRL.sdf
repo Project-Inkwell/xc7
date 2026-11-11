@@ -24,9 +24,9 @@
         (INSTANCE BUFGCTRL)
         (DELAY
             (ABSOLUTE
-                (PORT BUFGCTRL/CE0 (0.016::0.020)(0.055::0.062))
-                (PORT BUFGCTRL/I0 (0.562::0.607)(1.500::1.574))
-                (DEVICE BUFGCTRL/O (0.512::0.775)(1.210::1.308))
+                (PORT BUFGCTRL/CE0 (0.057::0.059)(0.094::0.098))
+                (PORT BUFGCTRL/I0 (0.423::0.460)(1.111::1.171))
+                (DEVICE BUFGCTRL/O (0.495::0.733)(1.182::1.275))
             )
         )
     )

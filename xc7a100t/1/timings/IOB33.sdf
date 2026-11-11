@@ -16,9 +16,9 @@
         (INSTANCE IOB33)
         (DELAY
             (ABSOLUTE
-                (PORT OUTBUF/IN (0.037::0.115)(0.417::0.417))
+                (PORT OUTBUF/IN (0.041::0.122)(0.444::0.444))
                 (INTERCONNECT OUTBUF/OUT INBUF_EN/PAD (0.000::0.000)(0.000::0.000))
-                (DEVICE INBUF_EN/OUT (0.000::0.002)(0.002::0.006))
+                (DEVICE INBUF_EN/OUT (0.003::0.004)(0.003::0.005))
             )
         )
     )

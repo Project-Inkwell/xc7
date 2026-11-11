@@ -20,7 +20,7 @@
         (INSTANCE OLOGICE2)
         (DELAY
             (ABSOLUTE
-                (PORT OUTFF/CK (0.000::0.002)(0.005::0.020))
+                (PORT OUTFF/CK (0.014::0.018)(0.027::0.043))
                 (PORT OUTFF/D1 (0.000::0.000)(0.000::0.000))
                 (PORT OUTFF/D2 (0.000::0.000)(0.000::0.000))
                 (DEVICE OUTFF/Q (0.000::0.000)(0.000::0.000))

@@ -8,7 +8,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT0"
     },
@@ -20,7 +21,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT1"
     },
@@ -32,7 +34,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT10"
     },
@@ -44,7 +47,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT11"
     },
@@ -56,7 +60,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT12"
     },
@@ -68,7 +73,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT13"
     },
@@ -80,7 +86,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT14"
     },
@@ -92,7 +99,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT2"
     },
@@ -104,7 +112,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT3"
     },
@@ -116,7 +125,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT4"
     },
@@ -128,7 +138,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT5"
     },
@@ -140,7 +151,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT6"
     },
@@ -152,7 +164,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT7"
     },
@@ -164,7 +177,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT8"
     },
@@ -176,7 +190,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DMONITOROUT9"
     },
@@ -188,7 +203,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO0"
     },
@@ -200,7 +216,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO1"
     },
@@ -212,7 +229,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO10"
     },
@@ -224,7 +242,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO11"
     },
@@ -236,7 +255,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO12"
     },
@@ -248,7 +268,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO13"
     },
@@ -260,7 +281,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO14"
     },
@@ -272,7 +294,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO15"
     },
@@ -284,7 +307,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO2"
     },
@@ -296,7 +320,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO3"
     },
@@ -308,7 +333,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO4"
     },
@@ -320,7 +346,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO5"
     },
@@ -332,7 +359,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO6"
     },
@@ -344,7 +372,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO7"
     },
@@ -356,7 +385,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO8"
     },
@@ -368,7 +398,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPDO9"
     },
@@ -380,7 +411,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_DRPRDY"
     },
@@ -392,7 +424,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_EYESCANDATAERROR"
     },
@@ -404,7 +437,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_GTRXOUTCLK_3"
     },
@@ -416,7 +450,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_GTTXOUTCLK_3"
     },
@@ -428,7 +463,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT0"
     },
@@ -440,7 +476,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT1"
     },
@@ -452,7 +489,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT10"
     },
@@ -464,7 +502,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT11"
     },
@@ -476,7 +515,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT12"
     },
@@ -488,7 +528,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT13"
     },
@@ -500,7 +541,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT14"
     },
@@ -512,7 +554,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT15"
     },
@@ -524,7 +567,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT2"
     },
@@ -536,7 +580,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT3"
     },
@@ -548,7 +593,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT4"
     },
@@ -560,7 +606,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT5"
     },
@@ -572,7 +619,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT6"
     },
@@ -584,7 +632,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT7"
     },
@@ -596,7 +645,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT8"
     },
@@ -608,7 +658,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PCSRSVDOUT9"
     },
@@ -620,7 +671,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PHYSTATUS"
     },
@@ -632,7 +684,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PLLCLK0"
     },
@@ -644,7 +697,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PLLCLK1"
     },
@@ -656,7 +710,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PLLREFCLK0"
     },
@@ -668,7 +723,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PLLREFCLK1"
     },
@@ -680,7 +736,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PMARSVDOUT0"
     },
@@ -692,7 +749,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_PMARSVDOUT1"
     },
@@ -704,7 +762,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXBUFSTATUS0"
     },
@@ -716,7 +775,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXBUFSTATUS1"
     },
@@ -728,7 +788,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXBUFSTATUS2"
     },
@@ -740,7 +801,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXBYTEISALIGNED"
     },
@@ -752,7 +814,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXBYTEREALIGN"
     },
@@ -764,7 +827,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCDRLOCK"
     },
@@ -776,7 +840,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHANBONDSEQ"
     },
@@ -788,7 +853,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHANISALIGNED"
     },
@@ -800,7 +866,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHANREALIGN"
     },
@@ -812,7 +879,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISCOMMA0"
     },
@@ -824,7 +892,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISCOMMA1"
     },
@@ -836,7 +905,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISCOMMA2"
     },
@@ -848,7 +918,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISCOMMA3"
     },
@@ -860,7 +931,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISK0"
     },
@@ -872,7 +944,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISK1"
     },
@@ -884,7 +957,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISK2"
     },
@@ -896,7 +970,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHARISK3"
     },
@@ -908,7 +983,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHBONDO0"
     },
@@ -920,7 +996,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHBONDO1"
     },
@@ -932,7 +1009,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHBONDO2"
     },
@@ -944,7 +1022,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCHBONDO3"
     },
@@ -956,7 +1035,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCLKCORCNT0"
     },
@@ -968,7 +1048,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCLKCORCNT1"
     },
@@ -980,7 +1061,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCOMINITDET"
     },
@@ -992,7 +1074,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCOMMADET"
     },
@@ -1004,7 +1087,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCOMSASDET"
     },
@@ -1016,7 +1100,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXCOMWAKEDET"
     },
@@ -1028,7 +1113,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA0"
     },
@@ -1040,7 +1126,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA1"
     },
@@ -1052,7 +1139,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA10"
     },
@@ -1064,7 +1152,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA11"
     },
@@ -1076,7 +1165,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA12"
     },
@@ -1088,7 +1178,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA13"
     },
@@ -1100,7 +1191,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA14"
     },
@@ -1112,7 +1204,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA15"
     },
@@ -1124,7 +1217,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA16"
     },
@@ -1136,7 +1230,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA17"
     },
@@ -1148,7 +1243,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA18"
     },
@@ -1160,7 +1256,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA19"
     },
@@ -1172,7 +1269,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA2"
     },
@@ -1184,7 +1282,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA20"
     },
@@ -1196,7 +1295,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA21"
     },
@@ -1208,7 +1308,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA22"
     },
@@ -1220,7 +1321,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA23"
     },
@@ -1232,7 +1334,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA24"
     },
@@ -1244,7 +1347,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA25"
     },
@@ -1256,7 +1360,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA26"
     },
@@ -1268,7 +1373,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA27"
     },
@@ -1280,7 +1386,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA28"
     },
@@ -1292,7 +1399,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA29"
     },
@@ -1304,7 +1412,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA3"
     },
@@ -1316,7 +1425,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA30"
     },
@@ -1328,7 +1438,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA31"
     },
@@ -1340,7 +1451,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA4"
     },
@@ -1352,7 +1464,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA5"
     },
@@ -1364,7 +1477,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA6"
     },
@@ -1376,7 +1490,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA7"
     },
@@ -1388,7 +1503,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA8"
     },
@@ -1400,7 +1516,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATA9"
     },
@@ -1412,7 +1529,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATAVALID0"
     },
@@ -1424,7 +1542,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDATAVALID1"
     },
@@ -1436,7 +1555,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDISPERR0"
     },
@@ -1448,7 +1568,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDISPERR1"
     },
@@ -1460,7 +1581,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDISPERR2"
     },
@@ -1472,7 +1594,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDISPERR3"
     },
@@ -1484,7 +1607,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXDLYSRESETDONE"
     },
@@ -1496,7 +1620,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXELECIDLE"
     },
@@ -1508,7 +1633,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXHEADER0"
     },
@@ -1520,7 +1646,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXHEADER1"
     },
@@ -1532,7 +1659,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXHEADER2"
     },
@@ -1544,7 +1672,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXHEADERVALID"
     },
@@ -1556,7 +1685,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXNOTINTABLE0"
     },
@@ -1568,7 +1698,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXNOTINTABLE1"
     },
@@ -1580,7 +1711,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXNOTINTABLE2"
     },
@@ -1592,7 +1724,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXNOTINTABLE3"
     },
@@ -1604,7 +1737,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXN_PAD"
     },
@@ -1616,7 +1750,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXOSINTDONE"
     },
@@ -1628,7 +1763,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXOSINTSTARTED"
     },
@@ -1640,7 +1776,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXOSINTSTROBEDONE"
     },
@@ -1652,7 +1789,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXOSINTSTROBESTARTED"
     },
@@ -1664,7 +1802,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXOUTCLKFABRIC"
     },
@@ -1676,7 +1815,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXOUTCLKPCS"
     },
@@ -1688,7 +1828,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHALIGNDONE"
     },
@@ -1700,7 +1841,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHMONITOR0"
     },
@@ -1712,7 +1854,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHMONITOR1"
     },
@@ -1724,7 +1867,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHMONITOR2"
     },
@@ -1736,7 +1880,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHMONITOR3"
     },
@@ -1748,7 +1893,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHMONITOR4"
     },
@@ -1760,7 +1906,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHSLIPMONITOR0"
     },
@@ -1772,7 +1919,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHSLIPMONITOR1"
     },
@@ -1784,7 +1932,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHSLIPMONITOR2"
     },
@@ -1796,7 +1945,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHSLIPMONITOR3"
     },
@@ -1808,7 +1958,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPHSLIPMONITOR4"
     },
@@ -1820,7 +1971,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPMARESETDONE"
     },
@@ -1832,7 +1984,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXPRBSERR"
     },
@@ -1844,7 +1997,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXP_PAD"
     },
@@ -1856,7 +2010,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXRATEDONE"
     },
@@ -1868,7 +2023,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXRESETDONE"
     },
@@ -1880,7 +2036,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSTARTOFSEQ0"
     },
@@ -1892,7 +2049,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSTARTOFSEQ1"
     },
@@ -1904,7 +2062,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSTATUS0"
     },
@@ -1916,7 +2075,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSTATUS1"
     },
@@ -1928,7 +2088,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSTATUS2"
     },
@@ -1940,7 +2101,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSYNCDONE"
     },
@@ -1952,7 +2114,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXSYNCOUT"
     },
@@ -1964,7 +2127,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_RXVALID"
     },
@@ -1976,7 +2140,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXBUFSTATUS0"
     },
@@ -1988,7 +2153,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXBUFSTATUS1"
     },
@@ -2000,7 +2166,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXCOMFINISH"
     },
@@ -2012,7 +2179,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXDLYSRESETDONE"
     },
@@ -2024,7 +2192,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXGEARBOXREADY"
     },
@@ -2036,7 +2205,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXN"
     },
@@ -2048,7 +2218,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXOUTCLKFABRIC"
     },
@@ -2060,7 +2231,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXOUTCLKPCS"
     },
@@ -2072,7 +2244,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXP"
     },
@@ -2084,7 +2257,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXPHALIGNDONE"
     },
@@ -2096,7 +2270,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXPHINITDONE"
     },
@@ -2108,7 +2283,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXPMARESETDONE"
     },
@@ -2120,7 +2296,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXRATEDONE"
     },
@@ -2132,7 +2309,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXRESETDONE"
     },
@@ -2144,7 +2322,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXSYNCDONE"
     },
@@ -2156,7 +2335,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CHANNEL_TXSYNCOUT"
     },
@@ -2168,7 +2348,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK0_4"
     },
@@ -2180,7 +2361,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK0_5"
     },
@@ -2192,7 +2374,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK0_6"
     },
@@ -2204,7 +2387,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK0_7"
     },
@@ -2216,7 +2400,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK0_9"
     },
@@ -2228,7 +2413,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK1_2"
     },
@@ -2240,7 +2426,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK1_4"
     },
@@ -2252,7 +2439,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK1_5"
     },
@@ -2264,7 +2452,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK1_7"
     },
@@ -2276,7 +2465,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CLK1_8"
     },
@@ -2288,7 +2478,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL0_10"
     },
@@ -2300,7 +2491,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL0_5"
     },
@@ -2312,7 +2504,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL0_6"
     },
@@ -2324,7 +2517,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL0_7"
     },
@@ -2336,7 +2530,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL0_8"
     },
@@ -2348,7 +2543,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL0_9"
     },
@@ -2360,7 +2556,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_10"
     },
@@ -2372,7 +2569,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_3"
     },
@@ -2384,7 +2582,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_4"
     },
@@ -2396,7 +2595,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_5"
     },
@@ -2408,7 +2608,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_6"
     },
@@ -2420,7 +2621,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_7"
     },
@@ -2432,7 +2634,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_8"
     },
@@ -2444,7 +2647,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_CTRL1_9"
     },
@@ -2456,7 +2660,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX0_10"
     },
@@ -2468,7 +2673,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX0_2"
     },
@@ -2480,7 +2686,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX0_3"
     },
@@ -2492,7 +2699,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX0_7"
     },
@@ -2504,7 +2712,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX0_8"
     },
@@ -2516,7 +2725,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX0_9"
     },
@@ -2528,7 +2738,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX10_10"
     },
@@ -2540,7 +2751,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX10_3"
     },
@@ -2552,7 +2764,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX10_6"
     },
@@ -2564,7 +2777,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX10_7"
     },
@@ -2576,7 +2790,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX10_9"
     },
@@ -2588,7 +2803,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX11_10"
     },
@@ -2600,7 +2816,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX11_3"
     },
@@ -2612,7 +2829,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX11_5"
     },
@@ -2624,7 +2842,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX11_6"
     },
@@ -2636,7 +2855,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX11_7"
     },
@@ -2648,7 +2868,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX12_3"
     },
@@ -2660,7 +2881,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX12_5"
     },
@@ -2672,7 +2894,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX12_7"
     },
@@ -2684,7 +2907,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_0"
     },
@@ -2696,7 +2920,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_10"
     },
@@ -2708,7 +2933,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_4"
     },
@@ -2720,7 +2946,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_6"
     },
@@ -2732,7 +2959,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_7"
     },
@@ -2744,7 +2972,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_8"
     },
@@ -2756,7 +2985,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX13_9"
     },
@@ -2768,7 +2998,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_0"
     },
@@ -2780,7 +3011,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_1"
     },
@@ -2792,7 +3024,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_10"
     },
@@ -2804,7 +3037,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_5"
     },
@@ -2816,7 +3050,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_6"
     },
@@ -2828,7 +3063,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_8"
     },
@@ -2840,7 +3076,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX14_9"
     },
@@ -2852,7 +3089,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX15_10"
     },
@@ -2864,7 +3102,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX15_3"
     },
@@ -2876,7 +3115,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX15_5"
     },
@@ -2888,7 +3128,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX15_6"
     },
@@ -2900,7 +3141,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX15_7"
     },
@@ -2912,7 +3154,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX15_9"
     },
@@ -2924,7 +3167,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX16_0"
     },
@@ -2936,7 +3180,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX16_1"
     },
@@ -2948,7 +3193,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX16_10"
     },
@@ -2960,7 +3206,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX16_2"
     },
@@ -2972,7 +3219,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX16_4"
     },
@@ -2984,7 +3232,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX16_6"
     },
@@ -2996,7 +3245,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_1"
     },
@@ -3008,7 +3258,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_10"
     },
@@ -3020,7 +3271,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_2"
     },
@@ -3032,7 +3284,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_4"
     },
@@ -3044,7 +3297,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_6"
     },
@@ -3056,7 +3310,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_8"
     },
@@ -3068,7 +3323,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX17_9"
     },
@@ -3080,7 +3336,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX18_3"
     },
@@ -3092,7 +3349,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX18_5"
     },
@@ -3104,7 +3362,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX18_7"
     },
@@ -3116,7 +3375,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX18_9"
     },
@@ -3128,7 +3388,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX19_3"
     },
@@ -3140,7 +3401,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX19_5"
     },
@@ -3152,7 +3414,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX19_7"
     },
@@ -3164,7 +3427,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX19_9"
     },
@@ -3176,7 +3440,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_0"
     },
@@ -3188,7 +3453,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_10"
     },
@@ -3200,7 +3466,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_3"
     },
@@ -3212,7 +3479,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_4"
     },
@@ -3224,7 +3492,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_7"
     },
@@ -3236,7 +3505,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_8"
     },
@@ -3248,7 +3518,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX1_9"
     },
@@ -3260,7 +3531,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX20_1"
     },
@@ -3272,7 +3544,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX20_2"
     },
@@ -3284,7 +3557,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX20_4"
     },
@@ -3296,7 +3570,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX20_6"
     },
@@ -3308,7 +3583,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX21_1"
     },
@@ -3320,7 +3596,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX21_2"
     },
@@ -3332,7 +3609,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX21_4"
     },
@@ -3344,7 +3622,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX21_6"
     },
@@ -3356,7 +3635,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX21_8"
     },
@@ -3368,7 +3648,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX22_3"
     },
@@ -3380,7 +3661,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX22_5"
     },
@@ -3392,7 +3674,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX22_6"
     },
@@ -3404,7 +3687,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX22_7"
     },
@@ -3416,7 +3700,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX22_8"
     },
@@ -3428,7 +3713,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX22_9"
     },
@@ -3440,7 +3726,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX23_3"
     },
@@ -3452,7 +3739,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX23_5"
     },
@@ -3464,7 +3752,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX23_7"
     },
@@ -3476,7 +3765,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX23_8"
     },
@@ -3488,7 +3778,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX23_9"
     },
@@ -3500,7 +3791,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_10"
     },
@@ -3512,7 +3804,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_2"
     },
@@ -3524,7 +3817,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_3"
     },
@@ -3536,7 +3830,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_4"
     },
@@ -3548,7 +3843,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_5"
     },
@@ -3560,7 +3856,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_6"
     },
@@ -3572,7 +3869,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_7"
     },
@@ -3584,7 +3882,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_8"
     },
@@ -3596,7 +3895,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX24_9"
     },
@@ -3608,7 +3908,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_10"
     },
@@ -3620,7 +3921,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_2"
     },
@@ -3632,7 +3934,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_3"
     },
@@ -3644,7 +3947,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_4"
     },
@@ -3656,7 +3960,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_5"
     },
@@ -3668,7 +3973,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_6"
     },
@@ -3680,7 +3986,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_7"
     },
@@ -3692,7 +3999,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_8"
     },
@@ -3704,7 +4012,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX25_9"
     },
@@ -3716,7 +4025,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_10"
     },
@@ -3728,7 +4038,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_3"
     },
@@ -3740,7 +4051,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_4"
     },
@@ -3752,7 +4064,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_5"
     },
@@ -3764,7 +4077,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_6"
     },
@@ -3776,7 +4090,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_7"
     },
@@ -3788,7 +4103,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_8"
     },
@@ -3800,7 +4116,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX26_9"
     },
@@ -3812,7 +4129,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX27_0"
     },
@@ -3824,7 +4142,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX27_1"
     },
@@ -3836,7 +4155,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX27_10"
     },
@@ -3848,7 +4168,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX27_5"
     },
@@ -3860,7 +4181,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX27_7"
     },
@@ -3872,7 +4194,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX27_8"
     },
@@ -3884,7 +4207,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX28_10"
     },
@@ -3896,7 +4220,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX28_3"
     },
@@ -3908,7 +4233,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX28_4"
     },
@@ -3920,7 +4246,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX28_5"
     },
@@ -3932,7 +4259,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX28_6"
     },
@@ -3944,7 +4272,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX28_8"
     },
@@ -3956,7 +4285,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX29_10"
     },
@@ -3968,7 +4298,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX29_2"
     },
@@ -3980,7 +4311,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX29_4"
     },
@@ -3992,7 +4324,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX29_6"
     },
@@ -4004,7 +4337,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX29_7"
     },
@@ -4016,7 +4350,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX29_8"
     },
@@ -4028,7 +4363,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_0"
     },
@@ -4040,7 +4376,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_1"
     },
@@ -4052,7 +4389,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_10"
     },
@@ -4064,7 +4402,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_3"
     },
@@ -4076,7 +4415,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_4"
     },
@@ -4088,7 +4428,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_5"
     },
@@ -4100,7 +4441,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_6"
     },
@@ -4112,7 +4454,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX2_7"
     },
@@ -4124,7 +4467,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX30_10"
     },
@@ -4136,7 +4480,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX30_3"
     },
@@ -4148,7 +4493,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX30_6"
     },
@@ -4160,7 +4506,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX30_7"
     },
@@ -4172,7 +4519,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX30_8"
     },
@@ -4184,7 +4532,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX30_9"
     },
@@ -4196,7 +4545,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_0"
     },
@@ -4208,7 +4558,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_1"
     },
@@ -4220,7 +4571,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_3"
     },
@@ -4232,7 +4584,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_4"
     },
@@ -4244,7 +4597,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_5"
     },
@@ -4256,7 +4610,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_7"
     },
@@ -4268,7 +4623,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX31_8"
     },
@@ -4280,7 +4636,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX32_2"
     },
@@ -4292,7 +4649,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX32_5"
     },
@@ -4304,7 +4662,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX32_6"
     },
@@ -4316,7 +4675,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX32_7"
     },
@@ -4328,7 +4688,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX32_8"
     },
@@ -4340,7 +4701,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX32_9"
     },
@@ -4352,7 +4714,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX33_2"
     },
@@ -4364,7 +4727,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX33_5"
     },
@@ -4376,7 +4740,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX34_2"
     },
@@ -4388,7 +4753,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX34_3"
     },
@@ -4400,7 +4766,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX34_4"
     },
@@ -4412,7 +4779,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX34_6"
     },
@@ -4424,7 +4792,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX34_7"
     },
@@ -4436,7 +4805,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_0"
     },
@@ -4448,7 +4818,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_1"
     },
@@ -4460,7 +4831,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_10"
     },
@@ -4472,7 +4844,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_2"
     },
@@ -4484,7 +4857,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_3"
     },
@@ -4496,7 +4870,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_4"
     },
@@ -4508,7 +4883,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_5"
     },
@@ -4520,7 +4896,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_6"
     },
@@ -4532,7 +4909,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX35_8"
     },
@@ -4544,7 +4922,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX36_10"
     },
@@ -4556,7 +4935,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX36_2"
     },
@@ -4568,7 +4948,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX36_5"
     },
@@ -4580,7 +4961,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX36_7"
     },
@@ -4592,7 +4974,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX36_8"
     },
@@ -4604,7 +4987,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX37_10"
     },
@@ -4616,7 +5000,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX37_3"
     },
@@ -4628,7 +5013,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX37_4"
     },
@@ -4640,7 +5026,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX37_7"
     },
@@ -4652,7 +5039,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX37_8"
     },
@@ -4664,7 +5052,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_10"
     },
@@ -4676,7 +5065,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_2"
     },
@@ -4688,7 +5078,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_3"
     },
@@ -4700,7 +5091,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_4"
     },
@@ -4712,7 +5104,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_5"
     },
@@ -4724,7 +5117,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_6"
     },
@@ -4736,7 +5130,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_8"
     },
@@ -4748,7 +5143,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX38_9"
     },
@@ -4760,7 +5156,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_0"
     },
@@ -4772,7 +5169,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_1"
     },
@@ -4784,7 +5182,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_2"
     },
@@ -4796,7 +5195,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_3"
     },
@@ -4808,7 +5208,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_4"
     },
@@ -4820,7 +5221,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_5"
     },
@@ -4832,7 +5234,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX39_6"
     },
@@ -4844,7 +5247,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_0"
     },
@@ -4856,7 +5260,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_1"
     },
@@ -4868,7 +5273,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_10"
     },
@@ -4880,7 +5286,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_2"
     },
@@ -4892,7 +5299,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_3"
     },
@@ -4904,7 +5312,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_4"
     },
@@ -4916,7 +5325,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_5"
     },
@@ -4928,7 +5338,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_6"
     },
@@ -4940,7 +5351,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_8"
     },
@@ -4952,7 +5364,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX3_9"
     },
@@ -4964,7 +5377,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_0"
     },
@@ -4976,7 +5390,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_1"
     },
@@ -4988,7 +5403,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_10"
     },
@@ -5000,7 +5416,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_2"
     },
@@ -5012,7 +5429,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_3"
     },
@@ -5024,7 +5442,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_4"
     },
@@ -5036,7 +5455,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_5"
     },
@@ -5048,7 +5468,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_6"
     },
@@ -5060,7 +5481,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_7"
     },
@@ -5072,7 +5494,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_8"
     },
@@ -5084,7 +5507,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX40_9"
     },
@@ -5096,7 +5520,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_0"
     },
@@ -5108,7 +5533,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_1"
     },
@@ -5120,7 +5546,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_10"
     },
@@ -5132,7 +5559,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_5"
     },
@@ -5144,7 +5572,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_6"
     },
@@ -5156,7 +5585,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_7"
     },
@@ -5168,7 +5598,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX41_9"
     },
@@ -5180,7 +5611,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_0"
     },
@@ -5192,7 +5624,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_1"
     },
@@ -5204,7 +5637,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_10"
     },
@@ -5216,7 +5650,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_2"
     },
@@ -5228,7 +5663,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_3"
     },
@@ -5240,7 +5676,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_4"
     },
@@ -5252,7 +5689,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_5"
     },
@@ -5264,7 +5702,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_6"
     },
@@ -5276,7 +5715,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_7"
     },
@@ -5288,7 +5728,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_8"
     },
@@ -5300,7 +5741,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX42_9"
     },
@@ -5312,7 +5754,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX43_10"
     },
@@ -5324,7 +5767,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX43_5"
     },
@@ -5336,7 +5780,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX43_6"
     },
@@ -5348,7 +5793,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX43_9"
     },
@@ -5360,7 +5806,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_0"
     },
@@ -5372,7 +5819,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_1"
     },
@@ -5384,7 +5832,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_10"
     },
@@ -5396,7 +5845,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_2"
     },
@@ -5408,7 +5858,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_3"
     },
@@ -5420,7 +5871,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_5"
     },
@@ -5432,7 +5884,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_7"
     },
@@ -5444,7 +5897,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX44_9"
     },
@@ -5456,7 +5910,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_0"
     },
@@ -5468,7 +5923,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_1"
     },
@@ -5480,7 +5936,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_2"
     },
@@ -5492,7 +5949,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_3"
     },
@@ -5504,7 +5962,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_4"
     },
@@ -5516,7 +5975,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_5"
     },
@@ -5528,7 +5988,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_6"
     },
@@ -5540,7 +6001,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_7"
     },
@@ -5552,7 +6014,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX45_8"
     },
@@ -5564,7 +6027,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_0"
     },
@@ -5576,7 +6040,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_1"
     },
@@ -5588,7 +6053,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_10"
     },
@@ -5600,7 +6066,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_2"
     },
@@ -5612,7 +6079,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_3"
     },
@@ -5624,7 +6092,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_4"
     },
@@ -5636,7 +6105,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_6"
     },
@@ -5648,7 +6118,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX46_9"
     },
@@ -5660,7 +6131,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX47_4"
     },
@@ -5672,7 +6144,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX47_6"
     },
@@ -5684,7 +6157,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX47_9"
     },
@@ -5696,7 +6170,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX4_0"
     },
@@ -5708,7 +6183,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX4_10"
     },
@@ -5720,7 +6196,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX4_3"
     },
@@ -5732,7 +6209,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX4_4"
     },
@@ -5744,7 +6222,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX4_7"
     },
@@ -5756,7 +6235,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX4_8"
     },
@@ -5768,7 +6248,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_0"
     },
@@ -5780,7 +6261,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_10"
     },
@@ -5792,7 +6274,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_2"
     },
@@ -5804,7 +6287,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_3"
     },
@@ -5816,7 +6300,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_4"
     },
@@ -5828,7 +6313,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_5"
     },
@@ -5840,7 +6326,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_7"
     },
@@ -5852,7 +6339,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_8"
     },
@@ -5864,7 +6352,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX5_9"
     },
@@ -5876,7 +6365,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_0"
     },
@@ -5888,7 +6378,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_1"
     },
@@ -5900,7 +6391,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_10"
     },
@@ -5912,7 +6404,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_4"
     },
@@ -5924,7 +6417,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_5"
     },
@@ -5936,7 +6430,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_6"
     },
@@ -5948,7 +6443,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_7"
     },
@@ -5960,7 +6456,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_8"
     },
@@ -5972,7 +6469,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX6_9"
     },
@@ -5984,7 +6482,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_0"
     },
@@ -5996,7 +6495,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_1"
     },
@@ -6008,7 +6508,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_2"
     },
@@ -6020,7 +6521,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_3"
     },
@@ -6032,7 +6534,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_4"
     },
@@ -6044,7 +6547,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_5"
     },
@@ -6056,7 +6560,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_6"
     },
@@ -6068,7 +6573,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_7"
     },
@@ -6080,7 +6586,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_8"
     },
@@ -6092,7 +6599,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX7_9"
     },
@@ -6104,7 +6612,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_0"
     },
@@ -6116,7 +6625,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_1"
     },
@@ -6128,7 +6638,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_10"
     },
@@ -6140,7 +6651,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_2"
     },
@@ -6152,7 +6664,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_3"
     },
@@ -6164,7 +6677,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_4"
     },
@@ -6176,7 +6690,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_6"
     },
@@ -6188,7 +6703,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_7"
     },
@@ -6200,7 +6716,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_8"
     },
@@ -6212,7 +6729,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX8_9"
     },
@@ -6224,7 +6742,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_10"
     },
@@ -6236,7 +6755,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_3"
     },
@@ -6248,7 +6768,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_4"
     },
@@ -6260,7 +6781,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_5"
     },
@@ -6272,7 +6794,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_6"
     },
@@ -6284,7 +6807,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_7"
     },
@@ -6296,7 +6820,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_8"
     },
@@ -6308,7 +6833,8 @@
           "0.000",
           "0.000",
           "0.000"
-        ]
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "GTPE2_IMUX9_9"
     }
@@ -6321,7 +6847,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT1": {
       "delay": [
@@ -6329,7 +6856,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT10": {
       "delay": [
@@ -6337,7 +6865,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT11": {
       "delay": [
@@ -6345,7 +6874,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT12": {
       "delay": [
@@ -6353,7 +6883,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT13": {
       "delay": [
@@ -6361,7 +6892,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT14": {
       "delay": [
@@ -6369,7 +6901,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT2": {
       "delay": [
@@ -6377,7 +6910,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT3": {
       "delay": [
@@ -6385,7 +6919,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT4": {
       "delay": [
@@ -6393,7 +6928,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT5": {
       "delay": [
@@ -6401,7 +6937,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT6": {
       "delay": [
@@ -6409,7 +6946,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT7": {
       "delay": [
@@ -6417,7 +6955,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT8": {
       "delay": [
@@ -6425,7 +6964,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DMONITOROUT9": {
       "delay": [
@@ -6433,7 +6973,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO0": {
       "delay": [
@@ -6441,7 +6982,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO1": {
       "delay": [
@@ -6449,7 +6991,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO10": {
       "delay": [
@@ -6457,7 +7000,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO11": {
       "delay": [
@@ -6465,7 +7009,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO12": {
       "delay": [
@@ -6473,7 +7018,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO13": {
       "delay": [
@@ -6481,7 +7027,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO14": {
       "delay": [
@@ -6489,7 +7036,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO15": {
       "delay": [
@@ -6497,7 +7045,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO2": {
       "delay": [
@@ -6505,7 +7054,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO3": {
       "delay": [
@@ -6513,7 +7063,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO4": {
       "delay": [
@@ -6521,7 +7072,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO5": {
       "delay": [
@@ -6529,7 +7081,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO6": {
       "delay": [
@@ -6537,7 +7090,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO7": {
       "delay": [
@@ -6545,7 +7099,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO8": {
       "delay": [
@@ -6553,7 +7108,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPDO9": {
       "delay": [
@@ -6561,7 +7117,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_DRPRDY": {
       "delay": [
@@ -6569,7 +7126,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_EYESCANDATAERROR": {
       "delay": [
@@ -6577,7 +7135,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_GTRXOUTCLK_3": {
       "delay": [
@@ -6585,7 +7144,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_GTTXOUTCLK_3": {
       "delay": [
@@ -6593,7 +7153,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT0": {
       "delay": [
@@ -6601,7 +7162,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT1": {
       "delay": [
@@ -6609,7 +7171,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT10": {
       "delay": [
@@ -6617,7 +7180,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT11": {
       "delay": [
@@ -6625,7 +7189,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT12": {
       "delay": [
@@ -6633,7 +7198,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT13": {
       "delay": [
@@ -6641,7 +7207,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT14": {
       "delay": [
@@ -6649,7 +7216,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT15": {
       "delay": [
@@ -6657,7 +7225,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT2": {
       "delay": [
@@ -6665,7 +7234,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT3": {
       "delay": [
@@ -6673,7 +7243,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT4": {
       "delay": [
@@ -6681,7 +7252,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT5": {
       "delay": [
@@ -6689,7 +7261,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT6": {
       "delay": [
@@ -6697,7 +7270,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT7": {
       "delay": [
@@ -6705,7 +7279,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT8": {
       "delay": [
@@ -6713,7 +7288,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PCSRSVDOUT9": {
       "delay": [
@@ -6721,7 +7297,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PHYSTATUS": {
       "delay": [
@@ -6729,7 +7306,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMARSVDOUT0": {
       "delay": [
@@ -6737,7 +7315,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMARSVDOUT1": {
       "delay": [
@@ -6745,7 +7324,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT0": {
       "delay": [
@@ -6753,7 +7333,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT1": {
       "delay": [
@@ -6761,7 +7342,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT2": {
       "delay": [
@@ -6769,7 +7351,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT3": {
       "delay": [
@@ -6777,7 +7360,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT4": {
       "delay": [
@@ -6785,7 +7369,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT5": {
       "delay": [
@@ -6793,7 +7378,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_PMASCANOUT6": {
       "delay": [
@@ -6801,7 +7387,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXBUFSTATUS0": {
       "delay": [
@@ -6809,7 +7396,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXBUFSTATUS1": {
       "delay": [
@@ -6817,7 +7405,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXBUFSTATUS2": {
       "delay": [
@@ -6825,7 +7414,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXBYTEISALIGNED": {
       "delay": [
@@ -6833,7 +7423,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXBYTEREALIGN": {
       "delay": [
@@ -6841,7 +7432,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCDRLOCK": {
       "delay": [
@@ -6849,7 +7441,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHANBONDSEQ": {
       "delay": [
@@ -6857,7 +7450,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHANISALIGNED": {
       "delay": [
@@ -6865,7 +7459,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHANREALIGN": {
       "delay": [
@@ -6873,7 +7468,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISCOMMA0": {
       "delay": [
@@ -6881,7 +7477,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISCOMMA1": {
       "delay": [
@@ -6889,7 +7486,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISCOMMA2": {
       "delay": [
@@ -6897,7 +7495,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISCOMMA3": {
       "delay": [
@@ -6905,7 +7504,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISK0": {
       "delay": [
@@ -6913,7 +7513,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISK1": {
       "delay": [
@@ -6921,7 +7522,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISK2": {
       "delay": [
@@ -6929,7 +7531,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHARISK3": {
       "delay": [
@@ -6937,7 +7540,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHBONDO0": {
       "delay": [
@@ -6945,7 +7549,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHBONDO1": {
       "delay": [
@@ -6953,7 +7558,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHBONDO2": {
       "delay": [
@@ -6961,7 +7567,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCHBONDO3": {
       "delay": [
@@ -6969,7 +7576,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCLKCORCNT0": {
       "delay": [
@@ -6977,7 +7585,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCLKCORCNT1": {
       "delay": [
@@ -6985,7 +7594,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCOMINITDET": {
       "delay": [
@@ -6993,7 +7603,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCOMMADET": {
       "delay": [
@@ -7001,7 +7612,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCOMSASDET": {
       "delay": [
@@ -7009,7 +7621,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXCOMWAKEDET": {
       "delay": [
@@ -7017,7 +7630,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA0": {
       "delay": [
@@ -7025,7 +7639,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA1": {
       "delay": [
@@ -7033,7 +7648,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA10": {
       "delay": [
@@ -7041,7 +7657,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA11": {
       "delay": [
@@ -7049,7 +7666,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA12": {
       "delay": [
@@ -7057,7 +7675,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA13": {
       "delay": [
@@ -7065,7 +7684,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA14": {
       "delay": [
@@ -7073,7 +7693,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA15": {
       "delay": [
@@ -7081,7 +7702,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA16": {
       "delay": [
@@ -7089,7 +7711,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA17": {
       "delay": [
@@ -7097,7 +7720,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA18": {
       "delay": [
@@ -7105,7 +7729,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA19": {
       "delay": [
@@ -7113,7 +7738,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA2": {
       "delay": [
@@ -7121,7 +7747,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA20": {
       "delay": [
@@ -7129,7 +7756,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA21": {
       "delay": [
@@ -7137,7 +7765,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA22": {
       "delay": [
@@ -7145,7 +7774,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA23": {
       "delay": [
@@ -7153,7 +7783,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA24": {
       "delay": [
@@ -7161,7 +7792,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA25": {
       "delay": [
@@ -7169,7 +7801,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA26": {
       "delay": [
@@ -7177,7 +7810,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA27": {
       "delay": [
@@ -7185,7 +7819,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA28": {
       "delay": [
@@ -7193,7 +7828,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA29": {
       "delay": [
@@ -7201,7 +7837,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA3": {
       "delay": [
@@ -7209,7 +7846,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA30": {
       "delay": [
@@ -7217,7 +7855,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA31": {
       "delay": [
@@ -7225,7 +7864,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA4": {
       "delay": [
@@ -7233,7 +7873,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA5": {
       "delay": [
@@ -7241,7 +7882,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA6": {
       "delay": [
@@ -7249,7 +7891,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA7": {
       "delay": [
@@ -7257,7 +7900,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA8": {
       "delay": [
@@ -7265,7 +7909,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATA9": {
       "delay": [
@@ -7273,7 +7918,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATAVALID0": {
       "delay": [
@@ -7281,7 +7927,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDATAVALID1": {
       "delay": [
@@ -7289,7 +7936,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDISPERR0": {
       "delay": [
@@ -7297,7 +7945,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDISPERR1": {
       "delay": [
@@ -7305,7 +7954,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDISPERR2": {
       "delay": [
@@ -7313,7 +7963,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDISPERR3": {
       "delay": [
@@ -7321,7 +7972,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXDLYSRESETDONE": {
       "delay": [
@@ -7329,7 +7981,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXELECIDLE": {
       "delay": [
@@ -7337,7 +7990,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXHEADER0": {
       "delay": [
@@ -7345,7 +7999,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXHEADER1": {
       "delay": [
@@ -7353,7 +8008,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXHEADER2": {
       "delay": [
@@ -7361,7 +8017,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXHEADERVALID": {
       "delay": [
@@ -7369,7 +8026,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXNOTINTABLE0": {
       "delay": [
@@ -7377,7 +8035,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXNOTINTABLE1": {
       "delay": [
@@ -7385,7 +8044,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXNOTINTABLE2": {
       "delay": [
@@ -7393,7 +8053,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXNOTINTABLE3": {
       "delay": [
@@ -7401,7 +8062,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOSINTDONE": {
       "delay": [
@@ -7409,7 +8071,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOSINTSTARTED": {
       "delay": [
@@ -7417,7 +8080,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOSINTSTROBEDONE": {
       "delay": [
@@ -7425,7 +8089,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOSINTSTROBESTARTED": {
       "delay": [
@@ -7433,7 +8098,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOUTCLKFABRIC": {
       "delay": [
@@ -7441,7 +8107,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOUTCLKPCS": {
       "delay": [
@@ -7449,7 +8116,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOUTCLK_0": {
       "delay": [
@@ -7457,7 +8125,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOUTCLK_1": {
       "delay": [
@@ -7465,7 +8134,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOUTCLK_2": {
       "delay": [
@@ -7473,7 +8143,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXOUTCLK_3": {
       "delay": [
@@ -7481,7 +8152,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHALIGNDONE": {
       "delay": [
@@ -7489,7 +8161,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHMONITOR0": {
       "delay": [
@@ -7497,7 +8170,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHMONITOR1": {
       "delay": [
@@ -7505,7 +8179,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHMONITOR2": {
       "delay": [
@@ -7513,7 +8188,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHMONITOR3": {
       "delay": [
@@ -7521,7 +8197,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHMONITOR4": {
       "delay": [
@@ -7529,7 +8206,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHSLIPMONITOR0": {
       "delay": [
@@ -7537,7 +8215,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHSLIPMONITOR1": {
       "delay": [
@@ -7545,7 +8224,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHSLIPMONITOR2": {
       "delay": [
@@ -7553,7 +8233,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHSLIPMONITOR3": {
       "delay": [
@@ -7561,7 +8242,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPHSLIPMONITOR4": {
       "delay": [
@@ -7569,7 +8251,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPMARESETDONE": {
       "delay": [
@@ -7577,7 +8260,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXPRBSERR": {
       "delay": [
@@ -7585,7 +8269,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXRATEDONE": {
       "delay": [
@@ -7593,7 +8278,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXRESETDONE": {
       "delay": [
@@ -7601,7 +8287,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSTARTOFSEQ0": {
       "delay": [
@@ -7609,7 +8296,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSTARTOFSEQ1": {
       "delay": [
@@ -7617,7 +8305,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSTATUS0": {
       "delay": [
@@ -7625,7 +8314,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSTATUS1": {
       "delay": [
@@ -7633,7 +8323,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSTATUS2": {
       "delay": [
@@ -7641,7 +8332,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSYNCDONE": {
       "delay": [
@@ -7649,7 +8341,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXSYNCOUT": {
       "delay": [
@@ -7657,7 +8350,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_RXVALID": {
       "delay": [
@@ -7665,7 +8359,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_SCANOUT0": {
       "delay": [
@@ -7673,7 +8368,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_SCANOUT1": {
       "delay": [
@@ -7681,7 +8377,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_SCANOUT2": {
       "delay": [
@@ -7689,7 +8386,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_SCANOUT3": {
       "delay": [
@@ -7697,7 +8395,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_SCANOUT4": {
       "delay": [
@@ -7705,7 +8404,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_SCANOUT5": {
       "delay": [
@@ -7713,7 +8413,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXBUFSTATUS0": {
       "delay": [
@@ -7721,7 +8422,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXBUFSTATUS1": {
       "delay": [
@@ -7729,7 +8431,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXCOMFINISH": {
       "delay": [
@@ -7737,7 +8440,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXDLYSRESETDONE": {
       "delay": [
@@ -7745,7 +8449,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXGEARBOXREADY": {
       "delay": [
@@ -7753,7 +8458,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXN": {
       "delay": [
@@ -7761,7 +8467,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXN_PAD": {
       "delay": [
@@ -7769,7 +8476,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXOUTCLKFABRIC": {
       "delay": [
@@ -7777,7 +8485,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXOUTCLKPCS": {
       "delay": [
@@ -7785,7 +8494,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXOUTCLK_0": {
       "delay": [
@@ -7793,7 +8503,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXOUTCLK_1": {
       "delay": [
@@ -7801,7 +8512,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXOUTCLK_2": {
       "delay": [
@@ -7809,7 +8521,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXOUTCLK_3": {
       "delay": [
@@ -7817,7 +8530,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXP": {
       "delay": [
@@ -7825,7 +8539,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXPHALIGNDONE": {
       "delay": [
@@ -7833,7 +8548,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXPHINITDONE": {
       "delay": [
@@ -7841,7 +8557,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXPMARESETDONE": {
       "delay": [
@@ -7849,7 +8566,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXP_PAD": {
       "delay": [
@@ -7857,7 +8575,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXRATEDONE": {
       "delay": [
@@ -7865,7 +8584,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXRESETDONE": {
       "delay": [
@@ -7873,7 +8593,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXRUNDISP0": {
       "delay": [
@@ -7881,7 +8602,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXRUNDISP1": {
       "delay": [
@@ -7889,7 +8611,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXRUNDISP2": {
       "delay": [
@@ -7897,7 +8620,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXRUNDISP3": {
       "delay": [
@@ -7905,7 +8629,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXSYNCDONE": {
       "delay": [
@@ -7913,7 +8638,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     },
     "GTPE2_CHANNEL_TXSYNCOUT": {
       "delay": [
@@ -7921,7 +8647,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "16000.000"
     }
   }
 }

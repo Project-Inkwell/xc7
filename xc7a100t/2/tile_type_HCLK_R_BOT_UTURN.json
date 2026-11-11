@@ -4,11 +4,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK0"
     },
@@ -16,11 +17,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK0"
     },
@@ -28,11 +30,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK0"
     },
@@ -40,11 +43,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK0"
     },
@@ -52,11 +56,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK0"
     },
@@ -64,11 +69,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK0"
     },
@@ -76,11 +82,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK1"
     },
@@ -88,11 +95,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK1"
     },
@@ -100,11 +108,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK1"
     },
@@ -112,11 +121,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK1"
     },
@@ -124,11 +134,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK1"
     },
@@ -136,11 +147,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK1"
     },
@@ -148,11 +160,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK2"
     },
@@ -160,11 +173,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK2"
     },
@@ -172,11 +186,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK2"
     },
@@ -184,11 +199,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK2"
     },
@@ -196,11 +212,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK2"
     },
@@ -208,11 +225,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK2"
     },
@@ -220,11 +238,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK3"
     },
@@ -232,11 +251,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK3"
     },
@@ -244,11 +264,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK3"
     },
@@ -256,11 +277,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK3"
     },
@@ -268,11 +290,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK3"
     },
@@ -280,11 +303,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK3"
     },
@@ -292,11 +316,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK4"
     },
@@ -304,11 +329,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK4"
     },
@@ -316,11 +342,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK4"
     },
@@ -328,11 +355,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK4"
     },
@@ -340,11 +368,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK4"
     },
@@ -352,11 +381,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK4"
     },
@@ -364,11 +394,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK5"
     },
@@ -376,11 +407,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK5"
     },
@@ -388,11 +420,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK5"
     },
@@ -400,11 +433,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK5"
     },
@@ -412,11 +446,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK5"
     },
@@ -424,11 +459,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK5"
     },
@@ -436,11 +472,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK6"
     },
@@ -448,11 +485,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK6"
     },
@@ -460,11 +498,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK6"
     },
@@ -472,11 +511,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK6"
     },
@@ -484,11 +524,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK6"
     },
@@ -496,11 +537,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK6"
     },
@@ -508,11 +550,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK7"
     },
@@ -520,11 +563,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK7"
     },
@@ -532,11 +576,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK7"
     },
@@ -544,11 +589,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK7"
     },
@@ -556,11 +602,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK7"
     },
@@ -568,11 +615,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_BUFHCLK7"
     },
@@ -580,11 +628,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R0"
     },
@@ -592,11 +641,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R0"
     },
@@ -604,11 +654,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R0"
     },
@@ -616,11 +667,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R0"
     },
@@ -628,11 +680,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R0"
     },
@@ -640,11 +693,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R0"
     },
@@ -652,11 +706,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R1"
     },
@@ -664,11 +719,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R1"
     },
@@ -676,11 +732,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R1"
     },
@@ -688,11 +745,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R1"
     },
@@ -700,11 +758,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R1"
     },
@@ -712,11 +771,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R1"
     },
@@ -724,11 +784,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R2"
     },
@@ -736,11 +797,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R2"
     },
@@ -748,11 +810,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R2"
     },
@@ -760,11 +823,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R2"
     },
@@ -772,11 +836,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R2"
     },
@@ -784,11 +849,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R2"
     },
@@ -796,11 +862,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R3"
     },
@@ -808,11 +875,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R3"
     },
@@ -820,11 +888,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R3"
     },
@@ -832,11 +901,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R3"
     },
@@ -844,11 +914,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R3"
     },
@@ -856,11 +927,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R3"
     },
@@ -868,11 +940,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R4"
     },
@@ -880,11 +953,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R4"
     },
@@ -892,11 +966,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R4"
     },
@@ -904,11 +979,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R4"
     },
@@ -916,11 +992,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R4"
     },
@@ -928,11 +1005,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R4"
     },
@@ -940,11 +1018,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R5"
     },
@@ -952,11 +1031,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R5"
     },
@@ -964,11 +1044,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R5"
     },
@@ -976,11 +1057,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R5"
     },
@@ -988,11 +1070,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R5"
     },
@@ -1000,11 +1083,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R5"
     },
@@ -1012,11 +1096,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R6"
     },
@@ -1024,11 +1109,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R6"
     },
@@ -1036,11 +1122,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R6"
     },
@@ -1048,11 +1135,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R6"
     },
@@ -1060,11 +1148,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R6"
     },
@@ -1072,11 +1161,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R6"
     },
@@ -1084,11 +1174,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP0",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R7"
     },
@@ -1096,11 +1187,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP1",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R7"
     },
@@ -1108,11 +1200,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP2",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R7"
     },
@@ -1120,11 +1213,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP3",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R7"
     },
@@ -1132,11 +1226,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP4",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R7"
     },
@@ -1144,11 +1239,12 @@
       "dst_wire": "HCLK_LEAF_CLK_B_TOP5",
       "src_to_dst": {
         "delay": [
+          "0.004",
+          "0.005",
           "0.000",
-          "0.000",
-          "0.000",
-          "0.000"
-        ]
+          "0.001"
+        ],
+        "in_cap": "1.000"
       },
       "src_wire": "HCLK_CK_OUTIN_R7"
     }
@@ -1161,7 +1257,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_ER1END_N3_3": {
       "delay": [
@@ -1169,7 +1266,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_FAN_BOUNCE0": {
       "delay": [
@@ -1177,7 +1275,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "18000.000"
     },
     "B_TERM_UTURN_INT_FAN_BOUNCE2": {
       "delay": [
@@ -1185,7 +1284,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "18000.000"
     },
     "B_TERM_UTURN_INT_FAN_BOUNCE4": {
       "delay": [
@@ -1193,7 +1293,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "18000.000"
     },
     "B_TERM_UTURN_INT_FAN_BOUNCE6": {
       "delay": [
@@ -1201,7 +1302,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "18000.000"
     },
     "B_TERM_UTURN_INT_LV18": {
       "delay": [
@@ -1209,7 +1311,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV2": {
       "delay": [
@@ -1217,7 +1320,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV3": {
       "delay": [
@@ -1225,7 +1329,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV4": {
       "delay": [
@@ -1233,7 +1338,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV5": {
       "delay": [
@@ -1241,7 +1347,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV6": {
       "delay": [
@@ -1249,7 +1356,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV7": {
       "delay": [
@@ -1257,7 +1365,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV8": {
       "delay": [
@@ -1265,7 +1374,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV9": {
       "delay": [
@@ -1273,7 +1383,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LVB0": {
       "delay": [
@@ -1281,7 +1392,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LVB1": {
       "delay": [
@@ -1289,7 +1401,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LVB2": {
       "delay": [
@@ -1297,7 +1410,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LVB3": {
       "delay": [
@@ -1305,7 +1419,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LVB4": {
       "delay": [
@@ -1313,7 +1428,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LVB5": {
       "delay": [
@@ -1321,7 +1437,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L18": {
       "delay": [
@@ -1329,7 +1446,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L2": {
       "delay": [
@@ -1337,7 +1455,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L3": {
       "delay": [
@@ -1345,7 +1464,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L4": {
       "delay": [
@@ -1353,7 +1473,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L5": {
       "delay": [
@@ -1361,7 +1482,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L6": {
       "delay": [
@@ -1369,7 +1491,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L7": {
       "delay": [
@@ -1377,7 +1500,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L8": {
       "delay": [
@@ -1385,7 +1509,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_LV_L9": {
       "delay": [
@@ -1393,7 +1518,8 @@
         "0.005",
         "0.006",
         "0.007"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE2BEG0": {
       "delay": [
@@ -1401,7 +1527,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE2BEG1": {
       "delay": [
@@ -1409,7 +1536,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE2BEG2": {
       "delay": [
@@ -1417,7 +1545,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE2BEG3": {
       "delay": [
@@ -1425,7 +1554,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6A0": {
       "delay": [
@@ -1433,7 +1563,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6A1": {
       "delay": [
@@ -1441,7 +1572,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6A2": {
       "delay": [
@@ -1449,7 +1581,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6A3": {
       "delay": [
@@ -1457,7 +1590,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6B0": {
       "delay": [
@@ -1465,7 +1599,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6B1": {
       "delay": [
@@ -1473,7 +1608,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6B2": {
       "delay": [
@@ -1481,7 +1617,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6B3": {
       "delay": [
@@ -1489,7 +1626,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6C0": {
       "delay": [
@@ -1497,7 +1635,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6C1": {
       "delay": [
@@ -1505,7 +1644,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6C2": {
       "delay": [
@@ -1513,7 +1653,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6C3": {
       "delay": [
@@ -1521,7 +1662,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6D0": {
       "delay": [
@@ -1529,7 +1671,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6D1": {
       "delay": [
@@ -1537,7 +1680,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6D2": {
       "delay": [
@@ -1545,7 +1689,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SE6D3": {
       "delay": [
@@ -1553,7 +1698,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SL1BEG0": {
       "delay": [
@@ -1561,7 +1707,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SL1BEG1": {
       "delay": [
@@ -1569,7 +1716,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SL1BEG2": {
       "delay": [
@@ -1577,7 +1725,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SL1BEG3": {
       "delay": [
@@ -1585,7 +1734,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SR1BEG1": {
       "delay": [
@@ -1593,7 +1743,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SR1BEG2": {
       "delay": [
@@ -1601,7 +1752,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SR1BEG3": {
       "delay": [
@@ -1609,7 +1761,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2A0": {
       "delay": [
@@ -1617,7 +1770,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2A1": {
       "delay": [
@@ -1625,7 +1779,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2A2": {
       "delay": [
@@ -1633,7 +1788,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2A3": {
       "delay": [
@@ -1641,7 +1797,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2BEG0": {
       "delay": [
@@ -1649,7 +1806,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2BEG1": {
       "delay": [
@@ -1657,7 +1815,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2BEG2": {
       "delay": [
@@ -1665,7 +1824,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS2BEG3": {
       "delay": [
@@ -1673,7 +1833,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6A0": {
       "delay": [
@@ -1681,7 +1842,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6A1": {
       "delay": [
@@ -1689,7 +1851,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6A2": {
       "delay": [
@@ -1697,7 +1860,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6A3": {
       "delay": [
@@ -1705,7 +1869,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6B0": {
       "delay": [
@@ -1713,7 +1878,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6B1": {
       "delay": [
@@ -1721,7 +1887,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6B2": {
       "delay": [
@@ -1729,7 +1896,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6B3": {
       "delay": [
@@ -1737,7 +1905,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6BEG0": {
       "delay": [
@@ -1745,7 +1914,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6BEG1": {
       "delay": [
@@ -1753,7 +1923,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6BEG2": {
       "delay": [
@@ -1761,7 +1932,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6BEG3": {
       "delay": [
@@ -1769,7 +1941,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6C0": {
       "delay": [
@@ -1777,7 +1950,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6C1": {
       "delay": [
@@ -1785,7 +1959,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6C2": {
       "delay": [
@@ -1793,7 +1968,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6C3": {
       "delay": [
@@ -1801,7 +1977,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6D0": {
       "delay": [
@@ -1809,7 +1986,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6D1": {
       "delay": [
@@ -1817,7 +1995,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6D2": {
       "delay": [
@@ -1825,7 +2004,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6D3": {
       "delay": [
@@ -1833,7 +2013,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6E0": {
       "delay": [
@@ -1841,7 +2022,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6E1": {
       "delay": [
@@ -1849,7 +2031,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6E2": {
       "delay": [
@@ -1857,7 +2040,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SS6E3": {
       "delay": [
@@ -1865,7 +2049,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW2BEG0": {
       "delay": [
@@ -1873,7 +2058,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW2BEG1": {
       "delay": [
@@ -1881,7 +2067,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW2BEG2": {
       "delay": [
@@ -1889,7 +2076,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW2BEG3": {
       "delay": [
@@ -1897,7 +2085,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6A0": {
       "delay": [
@@ -1905,7 +2094,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6A1": {
       "delay": [
@@ -1913,7 +2103,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6A2": {
       "delay": [
@@ -1921,7 +2112,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6A3": {
       "delay": [
@@ -1929,7 +2121,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6B0": {
       "delay": [
@@ -1937,7 +2130,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6B1": {
       "delay": [
@@ -1945,7 +2139,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6B2": {
       "delay": [
@@ -1953,7 +2148,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6B3": {
       "delay": [
@@ -1961,7 +2157,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6C0": {
       "delay": [
@@ -1969,7 +2166,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6C1": {
       "delay": [
@@ -1977,7 +2175,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6C2": {
       "delay": [
@@ -1985,7 +2184,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6C3": {
       "delay": [
@@ -1993,7 +2193,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6D0": {
       "delay": [
@@ -2001,7 +2202,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6D1": {
       "delay": [
@@ -2009,7 +2211,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6D2": {
       "delay": [
@@ -2017,7 +2220,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6D3": {
       "delay": [
@@ -2025,7 +2229,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_SW6END_N0_3": {
       "delay": [
@@ -2033,7 +2238,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_WR1BEG0": {
       "delay": [
@@ -2041,7 +2247,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "B_TERM_UTURN_INT_WR1END0": {
       "delay": [
@@ -2049,7 +2256,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CCIO0": {
       "delay": [
@@ -2057,7 +2265,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CCIO1": {
       "delay": [
@@ -2065,7 +2274,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CCIO2": {
       "delay": [
@@ -2073,7 +2283,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CCIO3": {
       "delay": [
@@ -2081,7 +2292,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK0": {
       "delay": [
@@ -2089,7 +2301,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK1": {
       "delay": [
@@ -2097,7 +2310,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK10": {
       "delay": [
@@ -2105,7 +2319,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK11": {
       "delay": [
@@ -2113,7 +2328,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK2": {
       "delay": [
@@ -2121,7 +2337,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK3": {
       "delay": [
@@ -2129,7 +2346,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK4": {
       "delay": [
@@ -2137,7 +2355,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK5": {
       "delay": [
@@ -2145,7 +2364,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK6": {
       "delay": [
@@ -2153,7 +2373,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK7": {
       "delay": [
@@ -2161,7 +2382,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK8": {
       "delay": [
@@ -2169,7 +2391,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_BUFHCLK9": {
       "delay": [
@@ -2177,7 +2400,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN0": {
       "delay": [
@@ -2185,7 +2409,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN1": {
       "delay": [
@@ -2193,7 +2418,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN10": {
       "delay": [
@@ -2201,7 +2427,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN11": {
       "delay": [
@@ -2209,7 +2436,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN12": {
       "delay": [
@@ -2217,7 +2445,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN13": {
       "delay": [
@@ -2225,7 +2454,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN2": {
       "delay": [
@@ -2233,7 +2463,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN3": {
       "delay": [
@@ -2241,7 +2472,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN4": {
       "delay": [
@@ -2249,7 +2481,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN5": {
       "delay": [
@@ -2257,7 +2490,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN6": {
       "delay": [
@@ -2265,7 +2499,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN7": {
       "delay": [
@@ -2273,7 +2508,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN8": {
       "delay": [
@@ -2281,7 +2517,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_CK_IN9": {
       "delay": [
@@ -2289,7 +2526,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "0.000"
     },
     "HCLK_LEAF_CLK_B_TOP0": {
       "delay": [
@@ -2297,7 +2535,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "2000.000"
     },
     "HCLK_LEAF_CLK_B_TOP1": {
       "delay": [
@@ -2305,7 +2544,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "2000.000"
     },
     "HCLK_LEAF_CLK_B_TOP2": {
       "delay": [
@@ -2313,7 +2553,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "2000.000"
     },
     "HCLK_LEAF_CLK_B_TOP3": {
       "delay": [
@@ -2321,7 +2562,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "2000.000"
     },
     "HCLK_LEAF_CLK_B_TOP4": {
       "delay": [
@@ -2329,7 +2571,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "2000.000"
     },
     "HCLK_LEAF_CLK_B_TOP5": {
       "delay": [
@@ -2337,7 +2580,8 @@
         "0.000",
         "0.000",
         "0.000"
-      ]
+      ],
+      "res": "2000.000"
     }
   }
 }
